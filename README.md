@@ -1,1 +1,1 @@
-# ecommerce-analytics-case-study
+# Ecommerce-Analytics-Case-study
